@@ -1,0 +1,979 @@
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.exe.config
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.exe
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.pdb
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Controls.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Imaging.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Imaging.Formats.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Video.DirectShow.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Video.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Video.FFMPEG.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Video.VFW.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\Microsoft.WindowsAPICodePack.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\MySql.Data.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Math.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Controls.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Imaging.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Imaging.Formats.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Video.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Video.DirectShow.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Video.FFMPEG.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Video.VFW.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Math.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1 - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.exe.config
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.exe
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.pdb
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Controls.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\Microsoft.WindowsAPICodePack.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\MySql.Data.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Release\AForge.Controls.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\WindowsFormsApp1 - Copy - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\1366\WindowsFormsApp1 - Tampilan Kanan [1]\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormFormat2.resources
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormFormat3.resources
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+E:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\UI GL Endoscope\RS Pelabuhan Cirebon 1440\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormFormat2.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormCirebon1Gambar.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon2Gambar.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon4Gambar.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormFormat2.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormCirebon1Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon2Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon4Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1 - fix - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormFormat2.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormCirebon1Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon2Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon4Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [2] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormFormat2.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormCirebon1Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon2Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon4Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormFormat2.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormCirebon1Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon2Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon4Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1 LogoKotak - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormFormat2.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormCirebon1Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon2Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon4Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormFormat2.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormCirebon1Gambar.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon2Gambar.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon4Gambar.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\RS UPT Tanggerang\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormFormat2.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormCirebon1Gambar.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon2Gambar.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon4Gambar.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.FormCirebon6Gambar.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\RS Blitar\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.FormCirebon1Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.FormCirebon2Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.FormCirebon4Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.FormCirebon6Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\FHD\1440\All\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak - Copy - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\4k\1920\fix\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\Dany\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.xml
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.xml
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.xml
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.xml
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv - Copy\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.dll
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.dll
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\stdole.dll
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.pdb
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.xml
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.xml
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Interop.IWshRuntimeLibrary.dll
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Taufik\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Taufik\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+D:\Taufik\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\Taufik\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Taufik\4K\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Imaging.dll
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.dll
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.dll
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Math.dll
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Imaging.xml
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.xml
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.xml
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Math.xml
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+C:\Users\Gerlink\Downloads\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.dll
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.dll
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.xml
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.xml
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Math.dll
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Imaging.xml
+D:\Ridwan Hidayat\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Math.xml
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.dll
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.dll
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Math.dll
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Imaging.xml
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.xml
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.xml
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Math.xml
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\Endoscope\Taufik\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.dll
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Imaging.dll
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.dll
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.dll
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Math.dll
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Controls.xml
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Imaging.xml
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.xml
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.xml
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\AForge.Math.xml
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+\\192.168.0.200\it\fix\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Windows10\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+C:\Users\Windows10\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Windows10\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Windows10\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+C:\Users\Windows10\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.dll
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.dll
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.xml
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.xml
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\System.ValueTuple.dll
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\System.ValueTuple.xml
+C:\Users\Gerlink\Desktop\4K1920X1080\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.dll
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.dll
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\System.ValueTuple.dll
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\CsvHelper.xml
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\EPPlus.xml
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\x86\Debug\System.ValueTuple.xml
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel) - github\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel) - github\WindowsFormsApp1\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel) - github\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel) - github\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel) - github\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb

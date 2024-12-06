@@ -1,0 +1,52 @@
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Controls.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.Formats.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.FFMPEG.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.VFW.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Controls.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.Formats.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.FFMPEG.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.VFW.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\RnD\Medical\Endoscope\C#\Camera Framework 3.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - Copy (2)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink - Copy - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6Print.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPrint.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormUser.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Format_3.Form310Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Test.resources
+D:\Endoscope\Dany\4k\Winforms 3 Format - Record Obs - csv\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
