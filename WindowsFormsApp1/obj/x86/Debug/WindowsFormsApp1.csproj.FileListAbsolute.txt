@@ -2276,3 +2276,8 @@ D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - 
 D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
 D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Test.resources
 D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel)\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2,3 LogoKotak - Record Gerlink\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb

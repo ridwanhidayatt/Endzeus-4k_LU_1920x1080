@@ -71,9 +71,9 @@ namespace WindowsFormsApp1
             this.comboBox3 = new System.Windows.Forms.ComboBox();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.panel6 = new System.Windows.Forms.Panel();
-            this.cbx_baru = new System.Windows.Forms.ComboBox();
-            this.flowLayoutPanel2 = new System.Windows.Forms.FlowLayoutPanel();
             this.cbx_now = new System.Windows.Forms.ComboBox();
+            this.flowLayoutPanel2 = new System.Windows.Forms.FlowLayoutPanel();
+            this.cbx_baru = new System.Windows.Forms.ComboBox();
             this.panel7.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picLogo1)).BeginInit();
@@ -201,7 +201,7 @@ namespace WindowsFormsApp1
             // 
             // button8
             // 
-            this.button8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(107)))), ((int)(((byte)(150)))));
+            this.button8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(77)))), ((int)(((byte)(84)))), ((int)(((byte)(175)))));
             this.button8.FlatAppearance.BorderSize = 0;
             this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -218,7 +218,7 @@ namespace WindowsFormsApp1
             // 
             // btlPrint
             // 
-            this.btlPrint.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(107)))), ((int)(((byte)(150)))));
+            this.btlPrint.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(77)))), ((int)(((byte)(84)))), ((int)(((byte)(175)))));
             this.btlPrint.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btlPrint.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btlPrint.ForeColor = System.Drawing.Color.White;
@@ -235,7 +235,7 @@ namespace WindowsFormsApp1
             // 
             // button5
             // 
-            this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(107)))), ((int)(((byte)(150)))));
+            this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(77)))), ((int)(((byte)(84)))), ((int)(((byte)(175)))));
             this.button5.FlatAppearance.BorderSize = 0;
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -251,7 +251,7 @@ namespace WindowsFormsApp1
             // 
             // button3
             // 
-            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(85)))), ((int)(((byte)(119)))));
+            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(43)))), ((int)(((byte)(49)))), ((int)(((byte)(127)))));
             this.button3.Enabled = false;
             this.button3.FlatAppearance.BorderSize = 0;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -465,7 +465,7 @@ namespace WindowsFormsApp1
             // 
             // button7
             // 
-            this.button7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(107)))), ((int)(((byte)(150)))));
+            this.button7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(77)))), ((int)(((byte)(84)))), ((int)(((byte)(175)))));
             this.button7.FlatAppearance.BorderSize = 0;
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -536,13 +536,13 @@ namespace WindowsFormsApp1
             this.panel6.TabIndex = 76;
             this.panel6.Paint += new System.Windows.Forms.PaintEventHandler(this.panel6_Paint);
             // 
-            // cbx_baru
+            // cbx_now
             // 
-            this.cbx_baru.FormattingEnabled = true;
-            this.cbx_baru.Location = new System.Drawing.Point(345, 482);
-            this.cbx_baru.Name = "cbx_baru";
-            this.cbx_baru.Size = new System.Drawing.Size(209, 21);
-            this.cbx_baru.TabIndex = 94;
+            this.cbx_now.FormattingEnabled = true;
+            this.cbx_now.Location = new System.Drawing.Point(345, 46);
+            this.cbx_now.Name = "cbx_now";
+            this.cbx_now.Size = new System.Drawing.Size(209, 21);
+            this.cbx_now.TabIndex = 89;
             // 
             // flowLayoutPanel2
             // 
@@ -553,13 +553,13 @@ namespace WindowsFormsApp1
             this.flowLayoutPanel2.Size = new System.Drawing.Size(551, 414);
             this.flowLayoutPanel2.TabIndex = 95;
             // 
-            // cbx_now
+            // cbx_baru
             // 
-            this.cbx_now.FormattingEnabled = true;
-            this.cbx_now.Location = new System.Drawing.Point(345, 46);
-            this.cbx_now.Name = "cbx_now";
-            this.cbx_now.Size = new System.Drawing.Size(209, 21);
-            this.cbx_now.TabIndex = 89;
+            this.cbx_baru.FormattingEnabled = true;
+            this.cbx_baru.Location = new System.Drawing.Point(345, 482);
+            this.cbx_baru.Name = "cbx_baru";
+            this.cbx_baru.Size = new System.Drawing.Size(209, 21);
+            this.cbx_baru.TabIndex = 94;
             // 
             // Form4Print
             // 

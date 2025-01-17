@@ -1010,3 +1010,40 @@ D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel) - github\WindowsFor
 D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel) - github\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
 D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel) - github\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
 D:\ENDSOCOPE\GERLINK\4K\4K1920X1080 (Custom-flowlayoutpanel) - github\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\CsvHelper.dll
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\EPPlus.dll
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\MySql.Data.dll
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\MySqlBackup.dll
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\System.ValueTuple.dll
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\CsvHelper.xml
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\EPPlus.xml
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\bin\x86\Debug\System.ValueTuple.xml
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form_Utama.FormDokter.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1Print.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form4Print.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form6Print.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormPrint.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormUser.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form21Gambar.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form22Gambar.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form24Gambar.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_2.Form26Gambar.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Format_3.Form310Gambar.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing2Gambar.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.FormSwitcing.FormSwitcing4Gambar.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Test.resources
+D:\ENDSOCOPE\OEM ZEUS\4K\4K_1920X1080\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.Cache

@@ -77,7 +77,7 @@ namespace WindowsFormsApp1
 
             // Inisialisasi FileSystemWatcher
             watcher = new FileSystemWatcher();
-            watcher.Path = @"D:\GLEndoscope\Obs";
+            watcher.Path = @"D:\ZeusEndoscope\Obs";
             watcher.Filter = "*.*";
             watcher.NotifyFilter = NotifyFilters.FileName | NotifyFilters.LastWrite;
             watcher.IncludeSubdirectories = false;
@@ -121,8 +121,8 @@ namespace WindowsFormsApp1
 
         //private void OnFileCreated(object sender, FileSystemEventArgs e)
         //{
-        //    string dir = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\Image\";
-        //    string dir1 = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\Video\";
+        //    string dir = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\Image\";
+        //    string dir1 = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\Video\";
 
         //    string[] imageExtensions = { ".png", ".jpg" };
         //    string[] videoExtensions = { ".mp4", ".avi" };
@@ -183,8 +183,8 @@ namespace WindowsFormsApp1
 
         //private void OnFileCreated(object sender, FileSystemEventArgs e)
         //{
-        //    string dir = $@"D:\GLEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Image\";
-        //    string dir1 = $@"D:\GLEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Video\";
+        //    string dir = $@"D:\ZeusEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Image\";
+        //    string dir1 = $@"D:\ZeusEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Video\";
 
         //    string[] imageExtensions = { ".png", ".jpg" };
         //    string[] videoExtensions = { ".mp4", ".avi" };
@@ -268,8 +268,8 @@ namespace WindowsFormsApp1
 
         private void OnFileCreated(object sender, FileSystemEventArgs e)
         {
-            string dir = $@"D:\GLEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Image\";
-            string dir1 = $@"D:\GLEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Video\";
+            string dir = $@"D:\ZeusEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Image\";
+            string dir1 = $@"D:\ZeusEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Video\";
 
             string[] imageExtensions = { ".png", ".jpg" };
             string[] videoExtensions = { ".mp4", ".avi" };
@@ -370,7 +370,7 @@ namespace WindowsFormsApp1
         {
             try
             {
-                string dir1 = $@"D:\GLEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Video\";
+                string dir1 = $@"D:\ZeusEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Video\";
                 string fileName = Path.GetFileName(sourcePath);
                 string targetPath = Path.Combine(dir1, fileName);
 
@@ -406,7 +406,7 @@ namespace WindowsFormsApp1
             splitBulan = arr[0];
             splitTahun = arr[1];
 
-            string csvFilePath = "D:\\GLEndoscope\\Database\\dataPasien\\dataDefault.csv";
+            string csvFilePath = "D:\\ZeusEndoscope\\Database\\dataPasien\\dataDefault.csv";
 
             try
             {
@@ -424,8 +424,8 @@ namespace WindowsFormsApp1
                         var action = csv.GetField<string>("Jenis Pemeriksaan")?.Trim();
 
                         // Generate directory paths based on the extracted data
-                       string dir = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\Image";
-                       string dir1 = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\Video";
+                       string dir = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\Image";
+                       string dir1 = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\Video";
 
                         // Create directories if they don't exist
                         if (!Directory.Exists(dir))
@@ -649,7 +649,7 @@ namespace WindowsFormsApp1
                     panelAtas.Visible = false;
                     panelBawah.Visible = false;
                     btn_patient.Enabled = false;
-                    btn_patient.BackColor = Color.FromArgb(0, 85, 119);
+                    btn_patient.BackColor = Color.FromArgb(43, 49, 127);
                     int Fuser = 1;
                     txt_Form.Text = Fuser.ToString();
                     string kirim = "kirim";
@@ -695,7 +695,7 @@ namespace WindowsFormsApp1
                 textBox2.Clear();
                 txtFoot.Focus();
                 pictureBox2.Image = pictureBox1.Image; 
-                string dir = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\Image\";
+                string dir = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\Image\";
                 if (!Directory.Exists(dir))
                 {
                     Directory.CreateDirectory(dir);
@@ -774,7 +774,7 @@ namespace WindowsFormsApp1
                 int Fone = 2;
                 txt_Form.Text = Fone.ToString();
                 button3.Enabled = false;
-                button3.BackColor = Color.FromArgb(0, 85, 119);
+                button3.BackColor = Color.FromArgb(43, 49, 127);
             }
         } 
 
@@ -786,7 +786,7 @@ namespace WindowsFormsApp1
             textBox2.Clear();
             txtFoot.Focus();
             pictureBox2.Image = pictureBox1.Image; 
-            string dir = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\Image\";
+            string dir = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\Image\";
             if (!Directory.Exists(dir))
             {
                 Directory.CreateDirectory(dir);
@@ -1249,7 +1249,7 @@ namespace WindowsFormsApp1
                 panelBawah.Visible = true;
                 txt_kondisi.Clear();
                 btn_patient.Enabled = true; 
-                btn_patient.BackColor = Color.FromArgb(0, 107, 150); 
+                btn_patient.BackColor = Color.FromArgb(43, 49, 127); 
                 txt_Form.Clear();
                 txtFoot.Focus();
             }
@@ -1269,7 +1269,7 @@ namespace WindowsFormsApp1
                 txt_kondisi.Clear();
                 txt_Form.Clear();
                 button3.Enabled = true;
-                button3.BackColor = Color.FromArgb(0, 107, 150);
+                button3.BackColor = Color.FromArgb(43, 49, 127);
                 txtFoot.Focus();
             }
             else if (txt_kondisi.Text == dd.ToString())
@@ -1280,7 +1280,7 @@ namespace WindowsFormsApp1
                 txt_kondisi.Clear();
                 txt_Form.Clear();
                 button3.Enabled = true;
-                button3.BackColor = Color.FromArgb(0, 107, 150);
+                button3.BackColor = Color.FromArgb(43, 49, 127);
                 txtFoot.Focus();
             }
             else if (txt_kondisi.Text == aa.ToString())
@@ -1291,7 +1291,7 @@ namespace WindowsFormsApp1
                 txt_kondisi.Clear();
                 txt_Form.Clear();
                 button3.Enabled = true;
-                button3.BackColor = Color.FromArgb(0, 107, 150);
+                button3.BackColor = Color.FromArgb(43, 49, 127);
                 txtFoot.Focus();
             }
             else if (txt_kondisi.Text == fDokter.ToString())
@@ -1302,7 +1302,7 @@ namespace WindowsFormsApp1
                 txt_kondisi.Clear();
                 txt_Form.Clear(); 
                 buttonDokter.Enabled = true;
-                buttonDokter.BackColor = Color.FromArgb(0, 107, 150);
+                buttonDokter.BackColor = Color.FromArgb(43, 49, 127);
                 txtFoot.Focus();
             } 
             else if (txt_kondisi.Text == FormatClose.ToString())
@@ -1313,7 +1313,7 @@ namespace WindowsFormsApp1
                 txt_kondisi.Clear();
                 txt_Form.Clear();
                 button3.Enabled = true;
-                button3.BackColor = Color.FromArgb(0, 107, 150);
+                button3.BackColor = Color.FromArgb(43, 49, 127);
                 txtFoot.Focus();
             }
             else if (txt_kondisi.Text == FKlikF4.ToString())
@@ -1394,7 +1394,7 @@ namespace WindowsFormsApp1
                 txt_Form.Clear();
                 txtFoot.Focus();
                 button3.Enabled = true;
-                button3.BackColor = Color.FromArgb(0, 107, 150);
+                button3.BackColor = Color.FromArgb(43, 49, 127);
             }
         } 
 
@@ -1412,7 +1412,7 @@ namespace WindowsFormsApp1
 
             //ini adalah ketika tidak ada folder akan menanmbahkan folder secara otomatis
             pictureBox2.Image = pictureBox1.Image;
-            string dir = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" ; 
+            string dir = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" ; 
 
             //MessageBox.Show(dir);
             if (!Directory.Exists(dir))
@@ -1453,7 +1453,7 @@ namespace WindowsFormsApp1
                     videoSourcePlayer.Visible = false;
                     panelAtas.Visible = false;
                     panelBawah.Visible = false;
-                    buttonDokter.BackColor = Color.FromArgb(0, 85, 119);
+                    buttonDokter.BackColor = Color.FromArgb(43, 49, 127);
                     buttonDokter.Enabled = false;
                     int Fuser = 8;
                     txt_Form.Text = Fuser.ToString();
@@ -1681,7 +1681,7 @@ namespace WindowsFormsApp1
         { 
 
             // Specify the path for the CSV file
-            string csvFilePath = "D:\\GLEndoscope\\Database\\dataPasien\\dataDefault.csv";
+            string csvFilePath = "D:\\ZeusEndoscope\\Database\\dataPasien\\dataDefault.csv";
 
             // Check if the CSV file exists
             if (File.Exists(csvFilePath))

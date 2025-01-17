@@ -18,9 +18,9 @@ namespace WindowsFormsApp1.Format_2
 {
     public partial class Form24Gambar : Form
     {
-        string dirRtf = @"D:\GLEndoscope\FileRTF\";
-        string dirLogo = @"D:\GLEndoscope\LogoKOP\";
-        string csvFilePath = "D:\\GLEndoscope\\Database\\dataPasien\\dataDefault.csv";
+        string dirRtf = @"D:\ZeusEndoscope\FileRTF\";
+        string dirLogo = @"D:\ZeusEndoscope\LogoKOP\";
+        string csvFilePath = "D:\\ZeusEndoscope\\Database\\dataPasien\\dataDefault.csv";
 
         //string dir = @"D:\";
 
@@ -244,7 +244,7 @@ namespace WindowsFormsApp1.Format_2
             string searchPattern = $@"{gabung}\Image";
 
             // Root folder
-            string rootPath = @"D:\GLEndoscope";
+            string rootPath = @"D:\ZeusEndoscope";
 
             // Bersihkan ComboBox dan FlowLayoutPanel sebelum memulai
             cbx_baru.Items.Clear();
@@ -385,7 +385,7 @@ namespace WindowsFormsApp1.Format_2
             string searchPattern = $@"{gabung}\Image";
 
             // Root folder
-            string rootPath = @"D:\GLEndoscope";
+            string rootPath = @"D:\ZeusEndoscope";
 
             // Bersihkan ComboBox dan FlowLayoutPanel sebelum memulai
             cbx_now.Items.Clear();
@@ -526,7 +526,7 @@ namespace WindowsFormsApp1.Format_2
         //    splitTahun = arr[1];
 
         //    // Gabungkan string menjadi path lengkap
-        //    string folderPath = $@"D:\GLEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Image";
+        //    string folderPath = $@"D:\ZeusEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Image";
 
         //    if (Directory.Exists(folderPath))
         //    {
@@ -709,7 +709,7 @@ namespace WindowsFormsApp1.Format_2
 
             OpenFileDialog of = new OpenFileDialog();
             of.Filter = "Image Files (*.bmp;*.jpg;*.jpeg,*.png)|*.BMP;*.JPG;*.JPEG;*.PNG";
-            of.InitialDirectory = "D:\\GLEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
+            of.InitialDirectory = "D:\\ZeusEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
             if (of.ShowDialog() == DialogResult.OK)
             {
                 pictureBox1.ImageLocation = of.FileName;
@@ -728,7 +728,7 @@ namespace WindowsFormsApp1.Format_2
 
             OpenFileDialog of = new OpenFileDialog();
             of.Filter = "Image Files (*.bmp;*.jpg;*.jpeg,*.png)|*.BMP;*.JPG;*.JPEG;*.PNG";
-            of.InitialDirectory = "D:\\GLEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
+            of.InitialDirectory = "D:\\ZeusEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
             if (of.ShowDialog() == DialogResult.OK)
             {
                 pictureBox3.ImageLocation = of.FileName;
@@ -747,7 +747,7 @@ namespace WindowsFormsApp1.Format_2
 
             OpenFileDialog of = new OpenFileDialog();
             of.Filter = "Image Files (*.bmp;*.jpg;*.jpeg,*.png)|*.BMP;*.JPG;*.JPEG;*.PNG";
-            of.InitialDirectory = "D:\\GLEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
+            of.InitialDirectory = "D:\\ZeusEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
             if (of.ShowDialog() == DialogResult.OK)
             {
                 pictureBox5.ImageLocation = of.FileName;
@@ -767,7 +767,7 @@ namespace WindowsFormsApp1.Format_2
 
             OpenFileDialog of = new OpenFileDialog();
             of.Filter = "Image Files (*.bmp;*.jpg;*.jpeg,*.png)|*.BMP;*.JPG;*.JPEG;*.PNG";
-            of.InitialDirectory = "D:\\GLEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
+            of.InitialDirectory = "D:\\ZeusEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
             if (of.ShowDialog() == DialogResult.OK)
             {
                 pictureBox4.ImageLocation = of.FileName;
@@ -911,187 +911,85 @@ namespace WindowsFormsApp1.Format_2
         {
             if (pictureBox1.Image == null || pictureBox3.Image == null || pictureBox4.Image == null || pictureBox5.Image == null)
             {
-                MessageBox.Show("Foto diisi Dahulu ", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            }
-            else
-            {
-                if (textBoxKlinis.Text == "")
-                {
-                    MessageBox.Show("Klinis Belum diisi ", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-
-                }
-                else
-                {
-                    if (richTextBox1.Text == "")
-                    {
-                        MessageBox.Show("Hasil Pemeriksaan Belum diisi ", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                    }
-                    else
-                    {
-                        if (comboBox1.SelectedIndex == -1)
-                        {
-                            MessageBox.Show("Pilih printer terlebih dahulu ", " ", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                        }
-                        else
-                        {
-                            if (comboBox2.SelectedIndex == -1)
-                            {
-                                MessageBox.Show("Pilih profil terlebih dahulu ", " ", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                            }
-
-                            //PrintDocument pd = new PrintDocument();
-                            //pd.DefaultPageSettings.PaperSize = new System.Drawing.Printing.PaperSize("PaperA4", 840, 1180);
-                            //pd.DefaultPageSettings.Landscape = false;
-
-                            // Set the default printer
-                            string selectedPrinter = comboBox1.SelectedItem.ToString();
-                            PrintDocument pd = new PrintDocument();
-                            pd.PrinterSettings.PrinterName = selectedPrinter;
-
-                            pd.DefaultPageSettings.PaperSize = new System.Drawing.Printing.PaperSize("PaperA4", 840, 1180);
-                            pd.DefaultPageSettings.Landscape = false;
-
-                            if (comboBox2.Text == "Default")
-                            {
-                                pd.PrintPage += new PrintPageEventHandler(this.printDocument1_PrintPage);
-                                pd.Print();
-                                //printPreviewDialog1.Document = pd;
-                                //printPreviewDialog1.ShowDialog();
-                                comboBox1.Items.Clear();
-                                comboBox1.ResetText();
-                                FillListBox();
-                                panel7.Size = new Size(0, 0);
-                                HistoryPrintA4(comboBox2.Text);
-                                clearTextboxPemeriksaan();
-                                pictureBox1.Image.Dispose();
-                                pictureBox1.Image = null;
-                                pictureBox3.Image.Dispose();
-                                pictureBox3.Image = null;
-                                pictureBox4.Image.Dispose();
-                                pictureBox4.Image = null;
-                                pictureBox5.Image.Dispose();
-                                pictureBox5.Image = null;
-                                buttobDeleteFalse();
-                                buttonCancel.PerformClick();
-                                int kondisi1 = 6;
-                                TEViewC24G(kondisi1.ToString());
-                                MessageBox.Show("Dokumen berhasil diprint.", "Informasi", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                            }
-                            else if (comboBox2.Text == "Adjust Brightness")
-                            {
-                                pd.PrintPage += new PrintPageEventHandler(this.printDocument2_PrintPage);
-                                pd.Print();
-                                //printPreviewDialog1.Document = pd;
-                                //printPreviewDialog1.ShowDialog();
-                                comboBox1.Items.Clear();
-                                comboBox1.ResetText();
-                                FillListBox();
-                                panel7.Size = new Size(0, 0);
-                                HistoryPrintA4(comboBox2.Text);
-                                clearTextboxPemeriksaan();
-                                pictureBox1.Image.Dispose();
-                                pictureBox1.Image = null;
-                                pictureBox3.Image.Dispose();
-                                pictureBox3.Image = null;
-                                pictureBox4.Image.Dispose();
-                                pictureBox4.Image = null;
-                                pictureBox5.Image.Dispose();
-                                pictureBox5.Image = null;
-                                buttobDeleteFalse();
-                                buttonCancel.PerformClick();
-                                int kondisi1 = 6;
-                                TEViewC24G(kondisi1.ToString());
-                                MessageBox.Show("Dokumen berhasil diprint.", "Informasi", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                            }
-                            //pd.PrintPage += new PrintPageEventHandler(this.printDocument1_PrintPage);
-                            //pd.Print();
-                            //printPreviewDialog1.Document = pd;
-                            //printPreviewDialog1.ShowDialog();
-                            //comboBox1.Items.Clear();
-                            //comboBox1.ResetText();
-                            //FillListBox();
-                            //panel7.Size = new Size(0, 0);
-                            //HistoryPrintA4();
-                            //clearTextboxPemeriksaan();
-                            //pictureBox1.Image.Dispose();
-                            //pictureBox1.Image = null;
-                            //pictureBox3.Image.Dispose();
-                            //pictureBox3.Image = null;
-                            //pictureBox4.Image.Dispose();
-                            //pictureBox4.Image = null;
-                            //pictureBox5.Image.Dispose();
-                            //pictureBox5.Image = null; 
-                            //buttobDeleteFalse();
-                            //buttobAddTrue();  
-                            //buttonCancel.PerformClick(); 
-                            //int kondisi1 = 6;
-                            //TEViewC24G(kondisi1.ToString());
-                        }
-                    }
-                }
-            }
-        }
-
-        private bool IsValidForPrint()
-        {
-            if (pictureBox1.Image == null || pictureBox3.Image == null || pictureBox4.Image == null || pictureBox5.Image == null)
-            {
-                MessageBox.Show("Foto diisi Dahulu ", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return false;
+                MessageBox.Show("Foto diisi Dahulu", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
             }
 
-            if (string.IsNullOrEmpty(textBoxKlinis.Text))
+            if (string.IsNullOrWhiteSpace(textBoxKlinis.Text))
             {
-                MessageBox.Show("Klinis Belum diisi ", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return false;
+                MessageBox.Show("Klinis Belum diisi", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
             }
 
-            if (string.IsNullOrEmpty(richTextBox1.Text))
+            if (string.IsNullOrWhiteSpace(richTextBox1.Text))
             {
-                MessageBox.Show("Hasil Pemeriksaan Belum diisi ", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return false;
+                MessageBox.Show("Hasil Pemeriksaan Belum diisi", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
             }
 
             if (comboBox1.SelectedIndex == -1)
             {
-                MessageBox.Show("Pilih printer terlebih dahulu ", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return false;
+                MessageBox.Show("Pilih printer terlebih dahulu", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
             }
 
-            return true;
-        }
+            if (comboBox2.SelectedIndex == -1)
+            {
+                MessageBox.Show("Pilih profil terlebih dahulu", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
 
-        private void PostPrintCleanup()
+            string selectedPrinter = comboBox1.SelectedItem.ToString();
+            PrintDocument pd = new PrintDocument
+            {
+                PrinterSettings = { PrinterName = selectedPrinter },
+                DefaultPageSettings =
         {
-            comboBox1.Items.Clear();
-            comboBox1.ResetText();
-            panel7.Size = new Size(0, 0);
-            HistoryPrintA4(comboBox2.Text);
-            clearTextboxPemeriksaan();
+            PaperSize = new System.Drawing.Printing.PaperSize("PaperA4", 840, 1180),
+            Landscape = false
+        }
+            };
 
-            DisposeImages();
+            if (comboBox2.Text == "Default")
+            {
+                pd.PrintPage += new PrintPageEventHandler(this.printDocument1_PrintPage);
+            }
+            else if (comboBox2.Text == "Adjust Brightness")
+            {
+                pd.PrintPage += new PrintPageEventHandler(this.printDocument2_PrintPage);
+            }
 
-            buttobDeleteFalse();
-            buttonCancel.PerformClick();
-
-            int kondisi1 = 6;
-            TEViewC24G(kondisi1.ToString());
+            pd.Print();
+            ResetFormState(comboBox2.Text);
 
             MessageBox.Show("Dokumen berhasil diprint.", "Informasi", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
-        private void DisposeImages()
+        private void ResetFormState(string profile)
         {
-            foreach (var pictureBox in new[] { pictureBox1, pictureBox3, pictureBox4, pictureBox5 })
-            {
-                if (pictureBox.Image != null)
-                {
-                    pictureBox.Image.Dispose();
-                    pictureBox.Image = null;
-                }
-            }
+            comboBox1.Items.Clear();
+            comboBox1.ResetText();
+            FillListBox();
+            panel7.Size = new Size(0, 0);
+            HistoryPrintA4(profile);
+            clearTextboxPemeriksaan();
+            DisposeImages();
+            buttobDeleteFalse();
+            buttonCancel.PerformClick();
+            TEViewC24G("6");
         }
 
+        private void DisposeImages()
+        {
+            pictureBox1.Image?.Dispose();
+            pictureBox1.Image = null;
+            pictureBox3.Image?.Dispose();
+            pictureBox3.Image = null;
+            pictureBox4.Image?.Dispose();
+            pictureBox4.Image = null;
+            pictureBox5.Image?.Dispose();
+            pictureBox5.Image = null;
+        }
 
 
         //private void buttonPrint_Click(object sender, EventArgs e)
@@ -1282,7 +1180,7 @@ namespace WindowsFormsApp1.Format_2
 
         private void HistoryPrintA4(string profile)
         {
-            string dir = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\History Print\Format-2" + @"\4-Gambar\";
+            string dir = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\History Print\Format-2" + @"\4-Gambar\";
             if (!Directory.Exists(dir))
             {
                 Directory.CreateDirectory(dir);
@@ -1355,7 +1253,7 @@ namespace WindowsFormsApp1.Format_2
 
         private void LoadAndSetValues()
         {
-            string filePath = @"D:\GLEndoscope\LogoKOP\logo.xml";
+            string filePath = @"D:\ZeusEndoscope\LogoKOP\logo.xml";
 
             try
             {
@@ -2080,7 +1978,7 @@ namespace WindowsFormsApp1.Format_2
                     }
                     else
                     { 
-                        string dir = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\EksporPDF\Format-2\4-Gambar\";
+                        string dir = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\EksporPDF\Format-2\4-Gambar\";
                         if (!Directory.Exists(dir))
                         {
                             Directory.CreateDirectory(dir);

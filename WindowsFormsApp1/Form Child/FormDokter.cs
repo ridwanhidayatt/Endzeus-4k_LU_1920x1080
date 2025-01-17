@@ -62,7 +62,7 @@ namespace WindowsFormsApp1.Form_Utama
         // Fungsi untuk memuat data dari file CSV ke dalam list of Dokter
         public List<Dokter> MuatDataDariCSV()
         {
-            string directoryPath = @"D:\GLEndoscope\Database\dataDokter";
+            string directoryPath = @"D:\ZeusEndoscope\Database\dataDokter";
             string fileName = "namaDokter.csv";
             string filePath4 = Path.Combine(directoryPath, fileName);
 
@@ -305,7 +305,7 @@ namespace WindowsFormsApp1.Form_Utama
             //string directoryPath7 = @"D:\";
             //string filePath6 = Path.Combine(directoryPath7, "dokter.csv");
 
-            string directoryPath = @"D:\GLEndoscope\Database\dataDokter";
+            string directoryPath = @"D:\ZeusEndoscope\Database\dataDokter";
             string fileName = "namaDokter.csv";
             string filePath6 = Path.Combine(directoryPath, fileName);
 
@@ -414,7 +414,7 @@ namespace WindowsFormsApp1.Form_Utama
         //    //// Mengatur sumber data DataGridView
         //    //dataGridView1.DataSource = data;
 
-        //    string directoryPath = @"D:\GLEndoscope\Database\dataDokter";
+        //    string directoryPath = @"D:\ZeusEndoscope\Database\dataDokter";
         //    string fileName = "namaDokter.csv";
         //    string filePath = Path.Combine(directoryPath, fileName);
 
@@ -457,7 +457,7 @@ namespace WindowsFormsApp1.Form_Utama
 
         public void TampilkanDataKeDataGridView()
         {
-            string directoryPath = @"D:\GLEndoscope\Database\dataDokter";
+            string directoryPath = @"D:\ZeusEndoscope\Database\dataDokter";
             string fileName = "namaDokter.csv";
             string filePath = Path.Combine(directoryPath, fileName);
 
@@ -497,7 +497,7 @@ namespace WindowsFormsApp1.Form_Utama
 
 
 
-        //    string directoryPath = @"D:\GLEndoscope\Database\dataDokter";
+        //    string directoryPath = @"D:\ZeusEndoscope\Database\dataDokter";
         //    string fileName = "namaDokter.csv";
         //    string filePath = Path.Combine(directoryPath, fileName);
 
@@ -600,7 +600,7 @@ namespace WindowsFormsApp1.Form_Utama
 
             var csvConfig = new CsvConfiguration(); // CsvConfiguration tanpa argumen
 
-            using (var reader = new StreamReader(@"D:\GLEndoscope\Database\\dataDokter\namaDokter.csv"))
+            using (var reader = new StreamReader(@"D:\ZeusEndoscope\Database\\dataDokter\namaDokter.csv"))
             using (var csv = new CsvReader(reader, csvConfig))
             {
                 var records = csv.GetRecords<Dokter>().ToList();
@@ -692,7 +692,7 @@ namespace WindowsFormsApp1.Form_Utama
 
                     // Simpan data ke file CSV setelah penghapusan selesai
                     List<Dokter> dataList = bindingList.ToList(); // Konversi BindingList ke List
-                    SimpanDataKeCSV(dataList, @"D:\GLEndoscope\Database\dataDokter\namaDokter.csv");
+                    SimpanDataKeCSV(dataList, @"D:\ZeusEndoscope\Database\dataDokter\namaDokter.csv");
 
                     // Perbarui tampilan DataGridView
                     dataGridView1.DataSource = null;
@@ -833,7 +833,7 @@ namespace WindowsFormsApp1.Form_Utama
 
         //            // Simpan data ke CSV setelah perubahan
         //            List<Dokter> data = GetDataFromDataGridView(dataGridView1);
-        //            SimpanDataKeCSV(data, @"D:\GLEndoscope\Database\dataDokter\namaDokter.csv");
+        //            SimpanDataKeCSV(data, @"D:\ZeusEndoscope\Database\dataDokter\namaDokter.csv");
 
         //            // Keluar dari iterasi setelah menemukan NIP yang cocok
         //            return;
@@ -907,7 +907,7 @@ namespace WindowsFormsApp1.Form_Utama
 
                     // Simpan data ke CSV setelah perubahan
                     List<Dokter> data = bindingList.ToList();
-                    SimpanDataKeCSV(data, @"D:\GLEndoscope\Database\dataDokter\namaDokter.csv");
+                    SimpanDataKeCSV(data, @"D:\ZeusEndoscope\Database\dataDokter\namaDokter.csv");
 
                     // Tampilkan pesan keberhasilan
                     MessageBox.Show("Data berhasil diubah.", "Informasi", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -978,7 +978,7 @@ namespace WindowsFormsApp1.Form_Utama
 
         //            // Simpan data ke CSV setelah perubahan
         //            List<Dokter> data = GetDataFromDataGridView(dataGridView1);
-        //            SimpanDataKeCSV(data, @"D:\GLEndoscope\Database\dataDokter\namaDokter.csv");
+        //            SimpanDataKeCSV(data, @"D:\ZeusEndoscope\Database\dataDokter\namaDokter.csv");
 
         //            // Keluar dari iterasi setelah menemukan NIP yang cocok
         //            return;
@@ -1022,7 +1022,7 @@ namespace WindowsFormsApp1.Form_Utama
 
         //            // Simpan data ke CSV setelah perubahan
         //            List<Dokter> data = GetDataFromDataGridView(dataGridView1);
-        //            SimpanDataKeCSV(data, @"D:\GLEndoscope\Database\dataDokter\namaDokter.csv");
+        //            SimpanDataKeCSV(data, @"D:\ZeusEndoscope\Database\dataDokter\namaDokter.csv");
 
         //            // Keluar dari iterasi setelah menemukan NIP yang cocok
         //            return;
@@ -1063,7 +1063,7 @@ namespace WindowsFormsApp1.Form_Utama
 
         //            // Simpan data ke CSV setelah perubahan
         //            List<Dokter> data = GetDataFromDataGridView(dataGridView1);
-        //            SimpanDataKeCSV(data, @"D:\GLEndoscope\Database\dataDokter\namaDokter.csv");
+        //            SimpanDataKeCSV(data, @"D:\ZeusEndoscope\Database\dataDokter\namaDokter.csv");
 
         //            // Keluar dari iterasi setelah menemukan NIP yang cocok
 
@@ -1112,7 +1112,7 @@ namespace WindowsFormsApp1.Form_Utama
 
             // Simpan data ke file CSV setelah penghapusan selesai
             List<Dokter> dataList = bindingList.ToList(); // Konversi BindingList ke List
-            SimpanDataKeCSV(dataList, @"D:\GLEndoscope\Database\dataDokter\namaDokter.csv");
+            SimpanDataKeCSV(dataList, @"D:\ZeusEndoscope\Database\dataDokter\namaDokter.csv");
 
 
             //SimpanDataKeCSV(nip, nama, jenisKelamin, alamat);

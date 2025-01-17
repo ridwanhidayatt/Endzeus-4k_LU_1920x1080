@@ -54,7 +54,6 @@ namespace WindowsFormsApp1
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.btn_patient = new System.Windows.Forms.Button();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.videoSourcePlayer = new AForge.Controls.VideoSourcePlayer();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
@@ -62,12 +61,13 @@ namespace WindowsFormsApp1
             this.picRec1 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.panel2.SuspendLayout();
             this.panelPatientData.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picRec1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.SuspendLayout();
             // 
             // txtFoot
@@ -92,7 +92,7 @@ namespace WindowsFormsApp1
             this.lblCode.ForeColor = System.Drawing.Color.White;
             this.lblCode.Location = new System.Drawing.Point(62, 37);
             this.lblCode.Name = "lblCode";
-            this.lblCode.Size = new System.Drawing.Size(52, 16);
+            this.lblCode.Size = new System.Drawing.Size(53, 16);
             this.lblCode.TabIndex = 63;
             this.lblCode.Text = "No. RM";
             // 
@@ -103,7 +103,7 @@ namespace WindowsFormsApp1
             this.label4.ForeColor = System.Drawing.Color.White;
             this.label4.Location = new System.Drawing.Point(4, 67);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(44, 16);
+            this.label4.Size = new System.Drawing.Size(45, 16);
             this.label4.TabIndex = 61;
             this.label4.Text = "Nama";
             // 
@@ -114,7 +114,7 @@ namespace WindowsFormsApp1
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(4, 37);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(52, 16);
+            this.label1.Size = new System.Drawing.Size(53, 16);
             this.label1.TabIndex = 60;
             this.label1.Text = "No. RM";
             // 
@@ -172,7 +172,8 @@ namespace WindowsFormsApp1
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(107)))), ((int)(((byte)(150)))));
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(77)))), ((int)(((byte)(84)))), ((int)(((byte)(175)))));
+            this.panel2.Controls.Add(this.pictureBox3);
             this.panel2.Controls.Add(this.btn_Record_OBS);
             this.panel2.Controls.Add(this.buttonDokter);
             this.panel2.Controls.Add(this.textBoxPrint);
@@ -184,7 +185,6 @@ namespace WindowsFormsApp1
             this.panel2.Controls.Add(this.txt_kondisi);
             this.panel2.Controls.Add(this.textBox1);
             this.panel2.Controls.Add(this.btn_patient);
-            this.panel2.Controls.Add(this.pictureBox3);
             this.panel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.panel2.Location = new System.Drawing.Point(1588, 1);
             this.panel2.Name = "panel2";
@@ -193,7 +193,7 @@ namespace WindowsFormsApp1
             // 
             // btn_Record_OBS
             // 
-            this.btn_Record_OBS.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(107)))), ((int)(((byte)(150)))));
+            this.btn_Record_OBS.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(43)))), ((int)(((byte)(49)))), ((int)(((byte)(127)))));
             this.btn_Record_OBS.FlatAppearance.BorderSize = 0;
             this.btn_Record_OBS.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Record_OBS.ForeColor = System.Drawing.Color.White;
@@ -210,7 +210,7 @@ namespace WindowsFormsApp1
             // 
             // buttonDokter
             // 
-            this.buttonDokter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(107)))), ((int)(((byte)(150)))));
+            this.buttonDokter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(43)))), ((int)(((byte)(49)))), ((int)(((byte)(127)))));
             this.buttonDokter.FlatAppearance.BorderSize = 0;
             this.buttonDokter.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonDokter.ForeColor = System.Drawing.Color.White;
@@ -233,7 +233,7 @@ namespace WindowsFormsApp1
             // 
             // button3
             // 
-            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(107)))), ((int)(((byte)(150)))));
+            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(43)))), ((int)(((byte)(49)))), ((int)(((byte)(127)))));
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.White;
             this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
@@ -268,7 +268,7 @@ namespace WindowsFormsApp1
             this.label7.ForeColor = System.Drawing.Color.White;
             this.label7.Location = new System.Drawing.Point(62, 68);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(44, 16);
+            this.label7.Size = new System.Drawing.Size(45, 16);
             this.label7.TabIndex = 70;
             this.label7.Text = "Nama";
             // 
@@ -291,7 +291,7 @@ namespace WindowsFormsApp1
             this.label5.ForeColor = System.Drawing.Color.White;
             this.label5.Location = new System.Drawing.Point(54, 37);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(10, 16);
+            this.label5.Size = new System.Drawing.Size(11, 16);
             this.label5.TabIndex = 67;
             this.label5.Text = ":";
             // 
@@ -302,7 +302,7 @@ namespace WindowsFormsApp1
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(54, 68);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(10, 16);
+            this.label3.Size = new System.Drawing.Size(11, 16);
             this.label3.TabIndex = 66;
             this.label3.Text = ":";
             // 
@@ -319,7 +319,7 @@ namespace WindowsFormsApp1
             // 
             // btn_patient
             // 
-            this.btn_patient.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(107)))), ((int)(((byte)(150)))));
+            this.btn_patient.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(43)))), ((int)(((byte)(49)))), ((int)(((byte)(127)))));
             this.btn_patient.FlatAppearance.BorderSize = 0;
             this.btn_patient.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_patient.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
@@ -331,16 +331,6 @@ namespace WindowsFormsApp1
             this.btn_patient.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btn_patient.UseVisualStyleBackColor = false;
             this.btn_patient.Click += new System.EventHandler(this.btn_patient_Click);
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(4, 19);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(324, 77);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox3.TabIndex = 13;
-            this.pictureBox3.TabStop = false;
             // 
             // videoSourcePlayer
             // 
@@ -401,6 +391,16 @@ namespace WindowsFormsApp1
             this.pictureBox2.TabIndex = 66;
             this.pictureBox2.TabStop = false;
             // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Location = new System.Drawing.Point(4, 29);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(324, 77);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 78;
+            this.pictureBox3.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -426,10 +426,10 @@ namespace WindowsFormsApp1
             this.panel2.PerformLayout();
             this.panelPatientData.ResumeLayout(false);
             this.panelPatientData.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picRec1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -448,7 +448,6 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.TextBox txt_kondisi;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button btn_patient;
-        private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.Panel panelAtas;
         private System.Windows.Forms.Panel panelBawah;
         private System.Windows.Forms.Panel panel2;
@@ -468,6 +467,7 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.Button btn_Record_OBS;
         private System.Windows.Forms.RichTextBox richTextBox1;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.PictureBox pictureBox3;
     }
 }
 

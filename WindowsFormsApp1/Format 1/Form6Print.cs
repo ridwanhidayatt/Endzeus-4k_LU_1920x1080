@@ -18,8 +18,8 @@ namespace WindowsFormsApp1
 {
     public partial class Form6Print : Form
     {
-        string dirLogo = @"D:\GLEndoscope\LogoKOP\";
-        string csvFilePath = "D:\\GLEndoscope\\Database\\dataPasien\\dataDefault.csv";
+        string dirLogo = @"D:\ZeusEndoscope\LogoKOP\";
+        string csvFilePath = "D:\\ZeusEndoscope\\Database\\dataPasien\\dataDefault.csv";
         //string dir = @"D:\";
         public delegate void TransfDelegate(String value);
         public event TransfDelegate TransfEventttt;
@@ -244,7 +244,7 @@ namespace WindowsFormsApp1
             string searchPattern = $@"{gabung}\Image";
 
             // Root folder
-            string rootPath = @"D:\GLEndoscope";
+            string rootPath = @"D:\ZeusEndoscope";
 
             // Bersihkan ComboBox dan FlowLayoutPanel sebelum memulai
             cbx_baru.Items.Clear();
@@ -386,7 +386,7 @@ namespace WindowsFormsApp1
             string searchPattern = $@"{gabung}\Image";
 
             // Root folder
-            string rootPath = @"D:\GLEndoscope";
+            string rootPath = @"D:\ZeusEndoscope";
 
             // Bersihkan ComboBox dan FlowLayoutPanel sebelum memulai
             cbx_now.Items.Clear();
@@ -527,7 +527,7 @@ namespace WindowsFormsApp1
         //    splitTahun = arr[1];
 
         //    // Gabungkan string menjadi path lengkap
-        //    string folderPath = $@"D:\GLEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Image";
+        //    string folderPath = $@"D:\ZeusEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Image";
 
         //    if (Directory.Exists(folderPath))
         //    {
@@ -1614,7 +1614,7 @@ namespace WindowsFormsApp1
             comboBox2.SelectedIndex = -1;
             OpenFileDialog of = new OpenFileDialog();
             of.Filter = "Image Files (*.bmp;*.jpg;*.jpeg,*.png)|*.BMP;*.JPG;*.JPEG;*.PNG";
-            of.InitialDirectory = "D:\\GLEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
+            of.InitialDirectory = "D:\\ZeusEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
 
             if (of.ShowDialog() == DialogResult.OK)
             {
@@ -1644,7 +1644,7 @@ namespace WindowsFormsApp1
 
             OpenFileDialog of = new OpenFileDialog();
             of.Filter = "Image Files (*.bmp;*.jpg;*.jpeg,*.png)|*.BMP;*.JPG;*.JPEG;*.PNG";
-            of.InitialDirectory = "D:\\GLEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
+            of.InitialDirectory = "D:\\ZeusEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
 
             if (of.ShowDialog() == DialogResult.OK)
             {
@@ -1675,7 +1675,7 @@ namespace WindowsFormsApp1
 
             OpenFileDialog of = new OpenFileDialog();
             of.Filter = "Image Files (*.bmp;*.jpg;*.jpeg,*.png)|*.BMP;*.JPG;*.JPEG;*.PNG";
-            of.InitialDirectory = "D:\\GLEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
+            of.InitialDirectory = "D:\\ZeusEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
 
             if (of.ShowDialog() == DialogResult.OK)
             {
@@ -1706,7 +1706,7 @@ namespace WindowsFormsApp1
 
             OpenFileDialog of = new OpenFileDialog();
             of.Filter = "Image Files (*.bmp;*.jpg;*.jpeg,*.png)|*.BMP;*.JPG;*.JPEG;*.PNG";
-            of.InitialDirectory = "D:\\GLEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
+            of.InitialDirectory = "D:\\ZeusEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
 
             if (of.ShowDialog() == DialogResult.OK)
             {
@@ -1737,7 +1737,7 @@ namespace WindowsFormsApp1
 
             OpenFileDialog of = new OpenFileDialog();
             of.Filter = "Image Files (*.bmp;*.jpg;*.jpeg,*.png)|*.BMP;*.JPG;*.JPEG;*.PNG";
-            of.InitialDirectory = "D:\\GLEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
+            of.InitialDirectory = "D:\\ZeusEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
 
             if (of.ShowDialog() == DialogResult.OK)
             {
@@ -1781,7 +1781,7 @@ namespace WindowsFormsApp1
 
             OpenFileDialog of = new OpenFileDialog();
             of.Filter = "Image Files (*.bmp;*.jpg;*.jpeg,*.png)|*.BMP;*.JPG;*.JPEG;*.PNG";
-            of.InitialDirectory = "D:\\GLEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
+            of.InitialDirectory = "D:\\ZeusEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
 
             if (of.ShowDialog() == DialogResult.OK)
             {
@@ -1883,7 +1883,7 @@ namespace WindowsFormsApp1
 
         private void LoadAndSetValues()
         {
-            string filePath = @"D:\GLEndoscope\LogoKOP\logo.xml";
+            string filePath = @"D:\ZeusEndoscope\LogoKOP\logo.xml";
 
             try
             {
@@ -2032,7 +2032,7 @@ namespace WindowsFormsApp1
         }  
         private void savePDF4R()
         {
-            string dir = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\EksporPDF\Format-1\6-Gambar\4R\";
+            string dir = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\EksporPDF\Format-1\6-Gambar\4R\";
             if (!Directory.Exists(dir))
             {
                 Directory.CreateDirectory(dir);
@@ -2055,7 +2055,7 @@ namespace WindowsFormsApp1
 
         private void HistoryPrint4R(string profile)
         {
-            string dir = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\History Print\Format-1\6-Gambar\4R\";
+            string dir = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\History Print\Format-1\6-Gambar\4R\";
             if (!Directory.Exists(dir))
             {
                 Directory.CreateDirectory(dir);
@@ -2093,7 +2093,7 @@ namespace WindowsFormsApp1
 
         private void savePDFA4()
         {
-            string dir = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\EksporPDF\Format-1\6-Gambar\A4\";
+            string dir = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\EksporPDF\Format-1\6-Gambar\A4\";
             if (!Directory.Exists(dir))
             {
                 Directory.CreateDirectory(dir);
@@ -2118,7 +2118,7 @@ namespace WindowsFormsApp1
 
         private void HistoryPrintA4(string profile)
         {
-            string dir = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\History Print\Format-1\6-Gambar\A4\";
+            string dir = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\History Print\Format-1\6-Gambar\A4\";
 
             if (!Directory.Exists(dir))
             {

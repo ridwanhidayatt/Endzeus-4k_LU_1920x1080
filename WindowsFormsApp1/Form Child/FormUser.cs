@@ -37,9 +37,9 @@ namespace WindowsFormsApp1
         private FormDokter form2Instance; // Pastikan Anda memiliki instance Form2 di Form1
 
         // Simpan data terakhir ke file CSV
-        string filePath1 = @"D:\GLEndoscope\Database\dataPasien\dataDefault.csv";
+        string filePath1 = @"D:\ZeusEndoscope\Database\dataPasien\dataDefault.csv";
 
-        private string filePath = "D:\\GLEndoscope\\Database\\dataPasien\\dataPasien.csv";
+        private string filePath = "D:\\ZeusEndoscope\\Database\\dataPasien\\dataPasien.csv";
         // Declare this at the top of your class, outside of any method
         private DataItem defaultPatient;
 
@@ -96,8 +96,8 @@ namespace WindowsFormsApp1
                 ClearTextBoxes();
 
                 // Export to CSV
-                ExportToCSV("D:\\GLEndoscope\\Database\\dataPasien\\dataPasien.csv");
-                //ExportToCSV("D:\\GLEndoscope\\Database\\dataPasien\\dataPasien.csv", dataList);
+                ExportToCSV("D:\\ZeusEndoscope\\Database\\dataPasien\\dataPasien.csv");
+                //ExportToCSV("D:\\ZeusEndoscope\\Database\\dataPasien\\dataPasien.csv", dataList);
 
                 // Set the editing flag to true
                 isEditing1 = false;
@@ -200,7 +200,7 @@ namespace WindowsFormsApp1
             form2Instance.FormClosedEvent += Form2_FormClosedEvent;
 
             // Panggil fungsi ini pada saat aplikasi dimulai
-            PopulateComboBox(" D:\\GLEndoscope\\Database\\dataDokter\\namaDokter.csv");
+            PopulateComboBox(" D:\\ZeusEndoscope\\Database\\dataDokter\\namaDokter.csv");
 
             comboBoxDokter.KeyPress += new KeyPressEventHandler(comboBoxDokter_KeyPress);
 
@@ -238,7 +238,7 @@ namespace WindowsFormsApp1
         private void Form2_FormClosedEvent()
         {
             // Panggil kembali fungsi untuk memperbarui ComboBox
-            PopulateComboBox(" D:\\GLEndoscope\\Database\\dataDokter\\namaDokter.csv");
+            PopulateComboBox(" D:\\ZeusEndoscope\\Database\\dataDokter\\namaDokter.csv");
         }
 
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
@@ -578,9 +578,9 @@ namespace WindowsFormsApp1
             dateTimePicker1.MaxDate = DateTime.Today.AddDays(1).AddTicks(-1);
             dateTimePicker1.Value = DateTime.Today.Date;
 
-            //LoadDataFromCSV("D:\\GLEndoscope\\Database\\dataPasien\\dataPasien.csv");
+            //LoadDataFromCSV("D:\\ZeusEndoscope\\Database\\dataPasien\\dataPasien.csv");
 
-            string filePath = "D:\\GLEndoscope\\Database\\dataPasien\\dataPasien.csv";
+            string filePath = "D:\\ZeusEndoscope\\Database\\dataPasien\\dataPasien.csv";
 
             if (File.Exists(filePath))
             {
@@ -609,8 +609,8 @@ namespace WindowsFormsApp1
             // Initial state check
             UpdateButtonStates();
 
-            string dataPasienPath = @"D:\GLEndoscope\Database\dataPasien\";
-            string dataDokterPath = @"D:\GLEndoscope\Database\dataDokter\";
+            string dataPasienPath = @"D:\ZeusEndoscope\Database\dataPasien\";
+            string dataDokterPath = @"D:\ZeusEndoscope\Database\dataDokter\";
 
             // Cek apakah folder sudah ada sebelum membuatnya
             if (!Directory.Exists(dataPasienPath))
@@ -821,7 +821,7 @@ namespace WindowsFormsApp1
             csvContent.AppendLine();
 
             // Specify the path for the CSV file
-            string csvFilePath = "D:\\GLEndoscope\\Database\\dataPasien\\dataDefault.csv";
+            string csvFilePath = "D:\\ZeusEndoscope\\Database\\dataPasien\\dataDefault.csv";
 
             // Write the CSV content to the file
             File.WriteAllText(csvFilePath, csvContent.ToString());
@@ -915,7 +915,7 @@ namespace WindowsFormsApp1
         //    RefreshDataGridView();
 
         //    // Export to CSV
-        //    ExportToCSV("D:\\GLEndoscope\\Database\\dataPasien\\dataPasien.csv");
+        //    ExportToCSV("D:\\ZeusEndoscope\\Database\\dataPasien\\dataPasien.csv");
         //    ExportLastRowToCSV(filePath1, dataList.LastOrDefault());
 
         //    // Clear the form fields
@@ -994,8 +994,8 @@ namespace WindowsFormsApp1
 
                 if (!string.Equals(oldNama, nama, StringComparison.OrdinalIgnoreCase))
                 {
-                    string oldFolderPath = $@"D:\GLEndoscope\{tanggalKunjungan:yyyy}\{tanggalKunjungan:MMMM}\{tanggalKunjungan:ddMMyyyy}\{rm}-{oldNama}";
-                    string newFolderPath = $@"D:\GLEndoscope\{tanggalKunjungan:yyyy}\{tanggalKunjungan:MMMM}\{tanggalKunjungan:ddMMyyyy}\{rm}-{nama}";
+                    string oldFolderPath = $@"D:\ZeusEndoscope\{tanggalKunjungan:yyyy}\{tanggalKunjungan:MMMM}\{tanggalKunjungan:ddMMyyyy}\{rm}-{oldNama}";
+                    string newFolderPath = $@"D:\ZeusEndoscope\{tanggalKunjungan:yyyy}\{tanggalKunjungan:MMMM}\{tanggalKunjungan:ddMMyyyy}\{rm}-{nama}";
 
                     if (Directory.Exists(oldFolderPath))
                     {
@@ -1016,7 +1016,7 @@ namespace WindowsFormsApp1
 
             RefreshDataGridView();
 
-            ExportToCSV("D:\\GLEndoscope\\Database\\dataPasien\\dataPasien.csv");
+            ExportToCSV("D:\\ZeusEndoscope\\Database\\dataPasien\\dataPasien.csv");
             //ExportLastRowToCSV(filePath1, dataList.LastOrDefault());
 
             ClearTextBoxes();
@@ -1106,7 +1106,7 @@ namespace WindowsFormsApp1
         //        if (!string.Equals(oldNama, nama, StringComparison.OrdinalIgnoreCase))
         //        {
         //            // Folder lama berdasarkan nama lama
-        //            string baseOldFolderPath = $@"D:\GLEndoscope\{tanggalKunjungan:yyyy}\{tanggalKunjungan:MMMM}\{tanggalKunjungan:ddMMyyyy}";
+        //            string baseOldFolderPath = $@"D:\ZeusEndoscope\{tanggalKunjungan:yyyy}\{tanggalKunjungan:MMMM}\{tanggalKunjungan:ddMMyyyy}";
         //            string searchPattern = $"{rm}-{oldNama}";
 
         //            // Dapatkan semua folder yang memiliki nama yang sesuai dengan pattern
@@ -1143,7 +1143,7 @@ namespace WindowsFormsApp1
 
         //    RefreshDataGridView();
 
-        //    ExportToCSV("D:\\GLEndoscope\\Database\\dataPasien\\dataPasien.csv");
+        //    ExportToCSV("D:\\ZeusEndoscope\\Database\\dataPasien\\dataPasien.csv");
         //    ExportLastRowToCSV(filePath1, existingItem);
 
         //    // Clear the form fields
@@ -1236,7 +1236,7 @@ namespace WindowsFormsApp1
         //    RefreshDataGridView();
 
         //    // Export to CSV
-        //    ExportToCSV("D:\\GLEndoscope\\Database\\dataPasien\\dataPasien.csv");
+        //    ExportToCSV("D:\\ZeusEndoscope\\Database\\dataPasien\\dataPasien.csv");
         //    ExportLastRowToCSV(filePath1, dataList.LastOrDefault());
 
         //    // Clear the form fields
@@ -1296,7 +1296,7 @@ namespace WindowsFormsApp1
 
         //    RefreshDataGridView();
         //    // Export to CSV
-        //    ExportToCSV("D:\\GLEndoscope\\Database\\dataPasien\\dataPasien.csv");
+        //    ExportToCSV("D:\\ZeusEndoscope\\Database\\dataPasien\\dataPasien.csv");
 
         //    ExportLastRowToCSV(filePath1, dataList.LastOrDefault());
 
@@ -1642,8 +1642,8 @@ namespace WindowsFormsApp1
             RefreshDataGridView();
 
             // Export to CSV
-            //ExportToCSV("D:\\GLEndoscope\\Database\\dataPasien\\dataPasien.csv", dataList);
-            ExportToCSV("D:\\GLEndoscope\\Database\\dataPasien\\dataPasien.csv");
+            //ExportToCSV("D:\\ZeusEndoscope\\Database\\dataPasien\\dataPasien.csv", dataList);
+            ExportToCSV("D:\\ZeusEndoscope\\Database\\dataPasien\\dataPasien.csv");
 
             ExportLastRowToCSV(filePath1, dataList.LastOrDefault());
             //ExportLastRowToCSV();

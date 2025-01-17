@@ -22,9 +22,9 @@ namespace WindowsFormsApp1.Format_3
         string splitTahun, splitBulan, tanggal;
         string logoValue, jenisValue;
 
-        string dirRtf = @"D:\GLEndoscope\FileRTF\";
-        string dirLogo = @"D:\GLEndoscope\LogoKOP\";
-        string csvFilePath = "D:\\GLEndoscope\\Database\\dataPasien\\dataDefault.csv";
+        string dirRtf = @"D:\ZeusEndoscope\FileRTF\";
+        string dirLogo = @"D:\ZeusEndoscope\LogoKOP\";
+        string csvFilePath = "D:\\ZeusEndoscope\\Database\\dataPasien\\dataDefault.csv";
         //string dir = @"D:\";
 
         string ambilDaerah, gabung, gabung1, jam;
@@ -237,7 +237,7 @@ namespace WindowsFormsApp1.Format_3
             string searchPattern = $@"{gabung}\Image";
 
             // Root folder
-            string rootPath = @"D:\GLEndoscope";
+            string rootPath = @"D:\ZeusEndoscope";
 
             // Bersihkan ComboBox dan FlowLayoutPanel sebelum memulai
             cbx_baru.Items.Clear();
@@ -378,7 +378,7 @@ namespace WindowsFormsApp1.Format_3
             string searchPattern = $@"{gabung}\Image";
 
             // Root folder
-            string rootPath = @"D:\GLEndoscope";
+            string rootPath = @"D:\ZeusEndoscope";
 
             // Bersihkan ComboBox dan FlowLayoutPanel sebelum memulai
             cbx_now.Items.Clear();
@@ -519,7 +519,7 @@ namespace WindowsFormsApp1.Format_3
         //    splitTahun = arr[1];
 
         //    // Gabungkan string menjadi path lengkap
-        //    string folderPath = $@"D:\GLEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Image";
+        //    string folderPath = $@"D:\ZeusEndoscope\{splitTahun}\{splitBulan}\{tanggal}\{gabung}\Image";
 
         //    if (Directory.Exists(folderPath))
         //    {
@@ -749,7 +749,7 @@ namespace WindowsFormsApp1.Format_3
 
         private void LoadAndSetValues()
         {
-            string filePath = @"D:\GLEndoscope\LogoKOP\logo.xml";
+            string filePath = @"D:\ZeusEndoscope\LogoKOP\logo.xml";
 
             try
             {
@@ -1140,7 +1140,7 @@ namespace WindowsFormsApp1.Format_3
             string splitTahun = arr[1];
             string tanggal = DateTime.Now.ToString("ddMMyyy");
 
-            string dir = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\History Print\Format-3" + @"\10-Gambar\";
+            string dir = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\History Print\Format-3" + @"\10-Gambar\";
             if (!Directory.Exists(dir))
             {
                 Directory.CreateDirectory(dir);
@@ -1548,7 +1548,7 @@ namespace WindowsFormsApp1.Format_3
                         string splitBulan = arr[0];
                         string splitTahun = arr[1];
                         string tanggal = DateTime.Now.ToString("ddMMyyy");
-                        string dir = @"D:\GLEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\EksporPDF\Format-3\10-Gambar\";
+                        string dir = @"D:\ZeusEndoscope\" + splitTahun + @"\" + splitBulan + @"\" + tanggal + @"\" + gabung + @"\EksporPDF\Format-3\10-Gambar\";
 
                         if (!Directory.Exists(dir))
                         {
@@ -1866,7 +1866,7 @@ namespace WindowsFormsApp1.Format_3
 
             OpenFileDialog op1 = new OpenFileDialog();
             op1.Multiselect = true;
-            op1.InitialDirectory = "D:\\GLEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
+            op1.InitialDirectory = "D:\\ZeusEndoscope\\" + splitTahun + "\\" + splitBulan + "\\" + tanggal + "\\" + gabung + "\\Image";
             op1.FileOk += openFileDialog1_FileOk;   // Event handler
             op1.ShowDialog();
         }
