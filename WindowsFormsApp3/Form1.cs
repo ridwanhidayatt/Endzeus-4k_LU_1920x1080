@@ -21,8 +21,8 @@ namespace WindowsFormsApp3
         // Simpan path gambar saat ini
         private string currentImagePath, currentImagePath2;
 
-        private string dirLogo = @"D:\GLEndoscope\LogoKOP\logo1.png";
-        private string dirLogo2 = @"D:\GLEndoscope\LogoKOP\logo2.png";
+        private string dirLogo = @"D:\ZeusEndoscope\LogoKOP\logo1.png";
+        private string dirLogo2 = @"D:\ZeusEndoscope\LogoKOP\logo2.png";
 
         public Form1()
         {
@@ -60,7 +60,7 @@ namespace WindowsFormsApp3
                 pictureBox2.Image = Image.FromStream(stream);
             }
 
-            string dirr = @"D:\GLEndoscope\FileRTF\";
+            string dirr = @"D:\ZeusEndoscope\FileRTF\";
             if (Directory.Exists(dirr))
             {
                 richTextBox1.LoadFile(dirr + "RtfFile.rtf", RichTextBoxStreamType.RichText);
@@ -82,7 +82,7 @@ namespace WindowsFormsApp3
 
         private void button5_Click(object sender, EventArgs e)
         {
-            string dirr = @"D:\GLEndoscope\FileRTF\";
+            string dirr = @"D:\ZeusEndoscope\FileRTF\";
 
             string fileName = dirr + "RtfFile.rtf";
             richTextBox1.SaveFile(fileName, RichTextBoxStreamType.RichText);
@@ -121,7 +121,7 @@ namespace WindowsFormsApp3
             richTextBox6.LoadFile(dirr + "RtfFile5.rtf", RichTextBoxStreamType.RichText);
 
 
-            //string dir = @"D:\GLEndoscope\LogoKOP";
+            //string dir = @"D:\ZeusEndoscope\LogoKOP";
             //string fileNameLogo = "logo1.png";
             //string filePath = Path.Combine(dir, fileNameLogo);
 
@@ -156,7 +156,7 @@ namespace WindowsFormsApp3
             //    pictureBox1.Image.Dispose();
             //} 
 
-            string dir = @"D:\GLEndoscope\LogoKOP";
+            string dir = @"D:\ZeusEndoscope\LogoKOP";
             string fileNameLogo1 = "logo1.png";
             string fileNameLogo2 = "logo2.png";
 
@@ -199,7 +199,7 @@ namespace WindowsFormsApp3
 
             var xd = new XDocument( new XElement("userdata",new XElement("logo", comboBox9.Text),new XElement("jenis", comboBox1.Text)));
 
-            xd.Save(@"D:\GLEndoscope\LogoKOP\logo.xml"); 
+            xd.Save(@"D:\ZeusEndoscope\LogoKOP\logo.xml"); 
 
             richTextBox1.LoadFile(dirr + "RtfFile.rtf", RichTextBoxStreamType.RichText);
             richTextBox2.LoadFile(dirr + "RtfFile1.rtf", RichTextBoxStreamType.RichText);
@@ -243,7 +243,7 @@ namespace WindowsFormsApp3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string dir = @"D:\GLEndoscope\LogoKOP";
+            string dir = @"D:\ZeusEndoscope\LogoKOP";
             string fileNameLogo = "logo1.png";
             string filePath = Path.Combine(dir, fileNameLogo);
 
@@ -393,7 +393,7 @@ namespace WindowsFormsApp3
         {
             this.ActiveControl = label17;
             comboBox1.SelectedIndex = 0;
-            //string dirLogo = @"D:\GLEndoscope\LogoKOP\";
+            //string dirLogo = @"D:\ZeusEndoscope\LogoKOP\";
 
             //string logoPath = Path.Combine(dirLogo, "logo1.png");
 
@@ -416,7 +416,7 @@ namespace WindowsFormsApp3
 
 
 
-            //string dirr = @"D:\GLEndoscope\FileRTF\";
+            //string dirr = @"D:\ZeusEndoscope\FileRTF\";
             //if (Directory.Exists(dirr))
             //{
             //    richTextBox1.LoadFile(dirr + "RtfFile.rtf", RichTextBoxStreamType.RichText);
@@ -454,7 +454,7 @@ namespace WindowsFormsApp3
             XmlDataDocument xmldoc = new XmlDataDocument();
             XmlNodeList xmlnode, xmlnode1;
             int i = 0;
-            FileStream fs = new FileStream(@"D:\GLEndoscope\LogoKOP\logo.xml", FileMode.Open, FileAccess.Read);
+            FileStream fs = new FileStream(@"D:\ZeusEndoscope\LogoKOP\logo.xml", FileMode.Open, FileAccess.Read);
             xmldoc.Load(fs);
             xmlnode = xmldoc.GetElementsByTagName("logo");
             xmlnode1 = xmldoc.GetElementsByTagName("jenis");

@@ -52,6 +52,7 @@ namespace WindowsFormsApp1.Form_Utama
             this.txt_AlamatDokter = new System.Windows.Forms.TextBox();
             this.btn_DeleteForm = new System.Windows.Forms.Button();
             this.panelUser = new System.Windows.Forms.Panel();
+            this.lbl_error = new System.Windows.Forms.Label();
             this.btn_Save = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
@@ -60,7 +61,6 @@ namespace WindowsFormsApp1.Form_Utama
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
-            this.lbl_error = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.panelUser.SuspendLayout();
@@ -327,6 +327,18 @@ namespace WindowsFormsApp1.Form_Utama
             this.panelUser.Name = "panelUser";
             this.panelUser.Size = new System.Drawing.Size(1563, 992);
             this.panelUser.TabIndex = 74;
+            this.panelUser.Paint += new System.Windows.Forms.PaintEventHandler(this.panelUser_Paint);
+            // 
+            // lbl_error
+            // 
+            this.lbl_error.AutoSize = true;
+            this.lbl_error.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_error.Location = new System.Drawing.Point(767, 134);
+            this.lbl_error.Name = "lbl_error";
+            this.lbl_error.Size = new System.Drawing.Size(110, 13);
+            this.lbl_error.TabIndex = 121;
+            this.lbl_error.Text = "*max 33 character";
+            this.lbl_error.Visible = false;
             // 
             // btn_Save
             // 
@@ -406,17 +418,6 @@ namespace WindowsFormsApp1.Form_Utama
             // errorProvider1
             // 
             this.errorProvider1.ContainerControl = this;
-            // 
-            // lbl_error
-            // 
-            this.lbl_error.AutoSize = true;
-            this.lbl_error.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_error.Location = new System.Drawing.Point(767, 134);
-            this.lbl_error.Name = "lbl_error";
-            this.lbl_error.Size = new System.Drawing.Size(110, 13);
-            this.lbl_error.TabIndex = 121;
-            this.lbl_error.Text = "*max 33 character";
-            this.lbl_error.Visible = false;
             // 
             // FormDokter
             // 

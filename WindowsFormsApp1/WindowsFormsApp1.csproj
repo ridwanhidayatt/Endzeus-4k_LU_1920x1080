@@ -154,7 +154,6 @@
     <Compile Include="BackupDatabase.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
-    <Compile Include="Form Child\Dokter.cs" />
     <Compile Include="Format 2\Form22Gambar.cs">
       <SubType>Form</SubType>
     </Compile>

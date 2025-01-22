@@ -1184,6 +1184,19 @@ namespace WindowsFormsApp1.Form_Utama
             }
         }
 
+        private void panelUser_Paint(object sender, PaintEventArgs e)
+        {
+            if (panelUser.BorderStyle == BorderStyle.FixedSingle)
+            {
+                int thickness = 2;//it's up to you
+                int halfThickness = thickness / 2;
+                using (Pen p = new Pen(Color.Black, thickness))
+                {
+                    e.Graphics.DrawRectangle(p, new System.Drawing.Rectangle(halfThickness, halfThickness, panelUser.ClientSize.Width - thickness, panelUser.ClientSize.Height - thickness));
+                }
+            }
+        }
+
 
         //tanpa remove spaces
         //private void btn_Save_Click(object sender, EventArgs e)
